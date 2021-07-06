@@ -1,0 +1,3 @@
+C:\Users\PatatN7\source\repos\CreditCardChecker\CreditCardChecker\obj\Debug\CreditCardChecker.njsprojAssemblyReference.cache
+C:\Users\PatatN7\source\repos\CreditCardChecker\CreditCardChecker\obj\Debug\CreditCardChecker.njsproj.CoreCompileInputs.cache
+C:\Users\PatatN7\source\repos\CreditCardChecker\CreditCardChecker\bin\Microsoft.NodejsTools.WebRole.dll

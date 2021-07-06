@@ -1,0 +1,9 @@
+{
+  "name": "lo-dash",
+  "version": "0.0.0",
+  "description": "LoDash",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

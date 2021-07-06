@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "LoDash", "LoDash\LoDash.njsproj", "{ED7C0F71-7EE6-4180-AE96-CE6E8FE87E91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED7C0F71-7EE6-4180-AE96-CE6E8FE87E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED7C0F71-7EE6-4180-AE96-CE6E8FE87E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED7C0F71-7EE6-4180-AE96-CE6E8FE87E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED7C0F71-7EE6-4180-AE96-CE6E8FE87E91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {278B47D2-0B09-4DEE-8326-581BDB0D72D2}
+	EndGlobalSection
+EndGlobal

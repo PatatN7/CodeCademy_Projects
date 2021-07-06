@@ -1,0 +1,9 @@
+{
+  "name": "credit-card-checker",
+  "version": "0.0.0",
+  "description": "CreditCardChecker",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
