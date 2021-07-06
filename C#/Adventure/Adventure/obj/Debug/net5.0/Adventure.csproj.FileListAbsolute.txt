@@ -1,0 +1,16 @@
+C:\Users\PatatN7\source\repos\Adventure\Adventure\bin\Debug\net5.0\Adventure.exe
+C:\Users\PatatN7\source\repos\Adventure\Adventure\bin\Debug\net5.0\Adventure.deps.json
+C:\Users\PatatN7\source\repos\Adventure\Adventure\bin\Debug\net5.0\Adventure.runtimeconfig.json
+C:\Users\PatatN7\source\repos\Adventure\Adventure\bin\Debug\net5.0\Adventure.runtimeconfig.dev.json
+C:\Users\PatatN7\source\repos\Adventure\Adventure\bin\Debug\net5.0\Adventure.dll
+C:\Users\PatatN7\source\repos\Adventure\Adventure\bin\Debug\net5.0\ref\Adventure.dll
+C:\Users\PatatN7\source\repos\Adventure\Adventure\bin\Debug\net5.0\Adventure.pdb
+C:\Users\PatatN7\source\repos\Adventure\Adventure\obj\Debug\net5.0\Adventure.csprojAssemblyReference.cache
+C:\Users\PatatN7\source\repos\Adventure\Adventure\obj\Debug\net5.0\Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PatatN7\source\repos\Adventure\Adventure\obj\Debug\net5.0\Adventure.AssemblyInfoInputs.cache
+C:\Users\PatatN7\source\repos\Adventure\Adventure\obj\Debug\net5.0\Adventure.AssemblyInfo.cs
+C:\Users\PatatN7\source\repos\Adventure\Adventure\obj\Debug\net5.0\Adventure.csproj.CoreCompileInputs.cache
+C:\Users\PatatN7\source\repos\Adventure\Adventure\obj\Debug\net5.0\Adventure.dll
+C:\Users\PatatN7\source\repos\Adventure\Adventure\obj\Debug\net5.0\ref\Adventure.dll
+C:\Users\PatatN7\source\repos\Adventure\Adventure\obj\Debug\net5.0\Adventure.pdb
+C:\Users\PatatN7\source\repos\Adventure\Adventure\obj\Debug\net5.0\Adventure.genruntimeconfig.cache
