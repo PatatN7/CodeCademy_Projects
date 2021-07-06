@@ -1,0 +1,16 @@
+C:\Users\PatatN7\source\repos\TrueOrFalse\TrueOrFalse\bin\Debug\net5.0\TrueOrFalse.exe
+C:\Users\PatatN7\source\repos\TrueOrFalse\TrueOrFalse\bin\Debug\net5.0\TrueOrFalse.deps.json
+C:\Users\PatatN7\source\repos\TrueOrFalse\TrueOrFalse\bin\Debug\net5.0\TrueOrFalse.runtimeconfig.json
+C:\Users\PatatN7\source\repos\TrueOrFalse\TrueOrFalse\bin\Debug\net5.0\TrueOrFalse.runtimeconfig.dev.json
+C:\Users\PatatN7\source\repos\TrueOrFalse\TrueOrFalse\bin\Debug\net5.0\TrueOrFalse.dll
+C:\Users\PatatN7\source\repos\TrueOrFalse\TrueOrFalse\bin\Debug\net5.0\ref\TrueOrFalse.dll
+C:\Users\PatatN7\source\repos\TrueOrFalse\TrueOrFalse\bin\Debug\net5.0\TrueOrFalse.pdb
+C:\Users\PatatN7\source\repos\TrueOrFalse\TrueOrFalse\obj\Debug\net5.0\TrueOrFalse.csprojAssemblyReference.cache
+C:\Users\PatatN7\source\repos\TrueOrFalse\TrueOrFalse\obj\Debug\net5.0\TrueOrFalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PatatN7\source\repos\TrueOrFalse\TrueOrFalse\obj\Debug\net5.0\TrueOrFalse.AssemblyInfoInputs.cache
+C:\Users\PatatN7\source\repos\TrueOrFalse\TrueOrFalse\obj\Debug\net5.0\TrueOrFalse.AssemblyInfo.cs
+C:\Users\PatatN7\source\repos\TrueOrFalse\TrueOrFalse\obj\Debug\net5.0\TrueOrFalse.csproj.CoreCompileInputs.cache
+C:\Users\PatatN7\source\repos\TrueOrFalse\TrueOrFalse\obj\Debug\net5.0\TrueOrFalse.dll
+C:\Users\PatatN7\source\repos\TrueOrFalse\TrueOrFalse\obj\Debug\net5.0\ref\TrueOrFalse.dll
+C:\Users\PatatN7\source\repos\TrueOrFalse\TrueOrFalse\obj\Debug\net5.0\TrueOrFalse.pdb
+C:\Users\PatatN7\source\repos\TrueOrFalse\TrueOrFalse\obj\Debug\net5.0\TrueOrFalse.genruntimeconfig.cache
