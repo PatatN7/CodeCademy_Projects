@@ -1,0 +1,9 @@
+{
+  "name": "mysterious-organism",
+  "version": "0.0.0",
+  "description": "MysteriousOrganism",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
