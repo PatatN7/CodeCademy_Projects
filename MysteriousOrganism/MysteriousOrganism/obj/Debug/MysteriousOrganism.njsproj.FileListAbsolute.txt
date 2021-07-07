@@ -1,3 +1,0 @@
-C:\Users\PatatN7\source\repos\MysteriousOrganism\MysteriousOrganism\obj\Debug\MysteriousOrganism.njsprojAssemblyReference.cache
-C:\Users\PatatN7\source\repos\MysteriousOrganism\MysteriousOrganism\obj\Debug\MysteriousOrganism.njsproj.CoreCompileInputs.cache
-C:\Users\PatatN7\source\repos\MysteriousOrganism\MysteriousOrganism\bin\Microsoft.NodejsTools.WebRole.dll
